@@ -1,8 +1,3 @@
-# Heroku 
-
-Esta rama representa una version de prueba de este software y mi repositorio Curriculum-Vitae para el despliegue en 
-la plataforma Heroku
-
 # GoServer
 
 Servidor de archivos estaticos configurable hecho en Go
