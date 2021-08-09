@@ -1,0 +1,11 @@
+.vscode
+.idea
+.DS_Store
+.env.local
+.env.*.local
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+main
